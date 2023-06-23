@@ -1,0 +1,29 @@
+* {
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+
+body {
+font-family: Arial, sans-serif;
+font-size: 16px;
+line-height: 1.5;
+background-color: #f4f4f4;
+}
+
+div {
+max-width: 600px;
+margin: 20px auto;
+padding: 20px;
+background-color: #fff;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+p {
+margin-bottom: 10px;
+}
+
+span {
+font-weight: bold;
+color: rgb(65, 54, 54);
+}
